@@ -1,4 +1,4 @@
-# HI:wave: !!! I am Kesav Santhosh. 
+# HI :wave: !!! I am Kesav Santhosh. 
 ## I am a Computer Science Student at VIT Chennai.
 
 
